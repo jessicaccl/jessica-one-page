@@ -25,7 +25,7 @@ Aqui estão as capturas de ecrã que demonstram o design responsivo e as funcion
 <p align="center">
   <img src="./screenshots/journey-modal.jpg" width="800" alt="Modal do Mapa Mental" />
   <br>
-  <em>Ao clicar em 'Ver a minha jornada', um modal imersivo estilo Plectica revela a evolução conectada por fios.</em>
+  <em>Ao clicar em 'Ver a minha linha do tempo', um modal imersivo estilo Plectica revela a evolução conectada por fios.</em>
 </p>
 
 ### Visualização Mobile (Responsivo)
@@ -40,7 +40,7 @@ Aqui estão as capturas de ecrã que demonstram o design responsivo e as funcion
 ## 🎯 Visão do Produto
 Este não é apenas um portfólio, mas a materialização da minha transição de carreira. O objetivo central foi criar uma experiência imersiva que demonstrasse a união entre a **visão de negócio**, **agilidade** e **desenvolvimento full-stack**.
 
-> "Eu não comecei na tecnologia — eu evoluí até ela."
+> "Eu não comecei na tecnologia, eu evoluí até ela."
 
 ## ✨ Diferenciais Estratégicos
 Ao contrário de currículos estáticos, esta One-Page utiliza conceitos de:
@@ -73,6 +73,6 @@ Ao contrário de currículos estáticos, esta One-Page utiliza conceitos de:
     ```bash
     npm run dev 
 
-📄 Licença
+## 📄 Licença
 Este projeto foi desenvolvido por Jéssica Lima. Sinta-se à vontade para usar como inspiração!    
 
