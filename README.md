@@ -1,4 +1,6 @@
 # 🚀 Jéssica Lima | Portfolio One-Page
+
+[🔗 Visualizar Site Ao Vivo](https://jessica-onepage.netlify.app/)
 ### Full-Stack Developer | Product Owner & Scrum Master
 
 ![Responsivo](https://img.shields.io/badge/Design-Responsive-C18D71)
